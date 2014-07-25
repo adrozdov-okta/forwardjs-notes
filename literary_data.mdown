@@ -1,5 +1,41 @@
 # Literary Data on the Web
 
+- SarahGP
+@supersgp
+
+## Highlights
+
+### Artisanal Data
+
+- First Chapters, Stefanie Posavec
+- NYC Taxis: A Day in the Life, Chris Whong
+- Quantified Breakup, Lam Thuy Vo
+- Timeline of Neglect, (Speaker)
+	- Visualization of the books owned but not read
+- Jonothan Color (literary theorist)
+
+### Literary Data
+
+- (?) Aneeque Ahmed
+- Patatap, Jonobr1 + Lullatone
+	- Translation is impossible because of context
+- Patent Generator, Sam Levine
+- David Bonazzi for Columbia Magazine
+
 ## Notes
 
 - Reminds me of "literary programming" aka the stuff Donald Knuth likes
+
+## People
+
+- Sharyl Sandberg (Facebook)
+
+## Technologies
+
+- d3.js
+
+## Books
+
+- Interactive Data Visualization
+- D3.JS in Action
+- Irene Ros, Shirley Wu, Gray Area
