@@ -1,0 +1,5 @@
+# Literary Data on the Web
+
+## Notes
+
+- Reminds me of "literary programming" aka the stuff Donald Knuth likes
