@@ -1,0 +1,18 @@
+# Forward Socket IO (JSVM)
+
+- Guillermo Rauch
+
+## "The Path Towards a better README" 
+
+- 2011 Fabrice Bellard inroduced JSLinux (jsvm.io)
+	- buildroot - minimalistic root image
+	- busybox - minimalistic set of GNU tools
+- JSModem implements a PPP interface
+
+## Questions
+
+- How to put browser visualizaton in slide show
+- Easily host your presentations online
+- Create a dead simple deck.js tutorial
+- Restart utton for deck.js (because refreshing doesn't seem to work with #)
+- Deck.js is to PPT what _ is to Word (fill in the blank)
